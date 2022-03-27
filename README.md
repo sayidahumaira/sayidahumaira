@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayidahumaira
 - 👀 I’m interested in Javascript & Flutter
 - 🌱 I’m currently learning UI/UX Design
-- 💞️ I’m looking to collaborate on Backend & CD/CI
+- 💞️ I’m looking to collaborate on Frontend
 - 📫 How to reach me just chat me
 
 <!---
